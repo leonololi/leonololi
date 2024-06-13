@@ -1,0 +1,5 @@
+decimal = int(imput("escribe tu numero  = "))
+resultado = decimal * 2
+
+
+print(resultado)
